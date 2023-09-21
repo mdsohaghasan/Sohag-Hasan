@@ -8,7 +8,7 @@ const Hero = () => {
       <section className="area">
         <div className="header">
             <h1 className="headding">Stay Focused on <br/> <span className="color-text">Mission 2024</span></h1>
-            <p className="para-b">Web Developer with 8 years of experience in designing and developing user
+            <p className="para-b">Web Developer with 5 years of experience in designing and developing user
                 interfaces,testing, debugging, and training staff within eCommerce technologies. </p>
             <Link className="button" href="/" target="_blank" rel="noopener noreferrer">Explore Now</Link>
         </div>
